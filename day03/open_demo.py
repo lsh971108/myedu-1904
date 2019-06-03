@@ -16,8 +16,7 @@ def 奇数():
     kaishi=0
     for fanwei in range(1,51):
         # if fanwei % 2 == 1:
-        fanwei %2 ==1
-        
+        if fanwei % 2 ==1:
             kaishi=kaishi+fanwei
         print(kaishi)
 if __name__ == '__main__':
