@@ -1,0 +1,74 @@
+{
+  "uid" : "67aa1d1c9aa0f173",
+  "name" : "test_order_add",
+  "fullName" : "test_test.Test_order#test_order_add",
+  "historyId" : "a58cd86ef82426832554bd9ff885e601",
+  "time" : {
+    "start" : 1559554119378,
+    "stop" : 1559554119378,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "订单模块"
+  }, {
+    "name" : "story",
+    "value" : "下订单"
+  }, {
+    "name" : "suite",
+    "value" : "test_test"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_order"
+  }, {
+    "name" : "host",
+    "value" : "SKY-20190118MZX"
+  }, {
+    "name" : "thread",
+    "value" : "6812-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "46591745571975a8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1559554003252,
+        "stop" : 1559554003252,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b7e11569215ef751",
+      "status" : "passed",
+      "time" : {
+        "start" : 1559549795139,
+        "stop" : 1559549795139,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "67aa1d1c9aa0f173.json",
+  "parameterValues" : [ ]
+}

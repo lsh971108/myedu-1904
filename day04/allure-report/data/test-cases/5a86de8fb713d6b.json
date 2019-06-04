@@ -1,0 +1,56 @@
+{
+  "uid" : "5a86de8fb713d6b",
+  "name" : "test_order_to_wh",
+  "fullName" : "test_test.Test_order#test_order_to_wh",
+  "historyId" : "926d67e4d69029abcacc6c445a3135bc",
+  "time" : {
+    "start" : 1559554003256,
+    "stop" : 1559554003257,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "订单发货"
+  }, {
+    "name" : "feature",
+    "value" : "订单模块"
+  }, {
+    "name" : "suite",
+    "value" : "test_test"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_order"
+  }, {
+    "name" : "host",
+    "value" : "SKY-20190118MZX"
+  }, {
+    "name" : "thread",
+    "value" : "6184-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5a86de8fb713d6b.json",
+  "parameterValues" : [ ]
+}

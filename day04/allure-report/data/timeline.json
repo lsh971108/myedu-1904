@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "SKY-20190118MZX",
+    "children" : [ {
+      "name" : "6812-MainThread",
+      "children" : [ {
+        "name" : "test_order_to_wh",
+        "uid" : "928cb8810a2b0d25",
+        "parentUid" : "84bc40370efe816f3b83a760b1d81b47",
+        "status" : "passed",
+        "time" : {
+          "start" : 1559554119382,
+          "stop" : 1559554119382,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_order_add",
+        "uid" : "67aa1d1c9aa0f173",
+        "parentUid" : "84bc40370efe816f3b83a760b1d81b47",
+        "status" : "passed",
+        "time" : {
+          "start" : 1559554119378,
+          "stop" : 1559554119378,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "84bc40370efe816f3b83a760b1d81b47"
+    } ],
+    "uid" : "3508ecd930e7a47bdcfd4108441fcae8"
+  } ]
+}
